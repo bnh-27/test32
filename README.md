@@ -4,7 +4,7 @@ Our program takes your name and age to form a sentence!
 This is supposed to be a simple program to learn the name and age of the user.
 
 
-Python Inputs:
+ ## Python Inputs:
 
 Enter your name (type in your name)
 
@@ -14,13 +14,12 @@ Enter your age (type in your age)
 
 hit enter
 
-Output: 
+ ## Output: 
 
 Your name is [] and your age is []!
 
 
-Code of Conduct
+ ## Code of Conduct
 
-Please be considerate and not make changes to our current program
+For any questions and concerns, please be considerate and take a look of our code of content file 
 
-Your are welcome to add on to create more functions with the name and age inputs
